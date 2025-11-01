@@ -1,155 +1,74 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Smit Prajapati | Full Stack Developer</title>
-  <style>
-    :root {
-      --bg-color: #f0fff0;
-      --card-bg: #ffffff;
-      --text-color: #333333;
-      --accent: #ff4c4c;
-      --accent-dark: #e04343;
-      --font: 'Lexend Deca', sans-serif;
-    }
+# 👋 Hi, I'm Smit Prajapati
 
-    body {
-      font-family: var(--font);
-      background-color: var(--bg-color);
-      color: var(--text-color);
-      margin: 0;
-      padding: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
+🚀 **Full Stack Developer | Open Source Enthusiast | Tech Explorer**
 
-    header {
-      text-align: center;
-      padding: 40px 20px;
-    }
+Welcome to my GitHub profile! I'm passionate about crafting clean, efficient, and scalable software solutions.  
+I love turning ideas into reality through elegant code and modern technologies.
 
-    header h1 {
-      font-size: 2.5rem;
-      color: var(--accent);
-      margin-bottom: 10px;
-    }
+---
 
-    header p {
-      font-size: 1.1rem;
-      color: #555;
-    }
+### 🧠 About Me
 
-    .section {
-      width: 90%;
-      max-width: 900px;
-      background-color: var(--card-bg);
-      border-radius: 12px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      padding: 30px;
-      margin: 20px 0;
-    }
+- 💻 I enjoy building **MERN Stack applications** and exploring **modern web technologies**  
+- 🌱 Currently learning **Next.js** and **TypeScript**  
+- 🛠️ Skilled in **React**, **Node.js**, **Express**, **MongoDB**, and **JavaScript**  
+- 🎯 Goal: To contribute to impactful **open-source projects** and grow as a **software architect**  
+- ⚡ Fun Fact: I debug more than I sleep 😄  
 
-    .section h2 {
-      color: var(--accent);
-      margin-bottom: 10px;
-    }
+---
 
-    ul {
-      list-style: none;
-      padding: 0;
-    }
+### 🧩 Tech Stack
 
-    ul li {
-      margin: 8px 0;
-    }
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 
-    a {
-      color: var(--accent);
-      text-decoration: none;
-    }
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
-    a:hover {
-      color: var(--accent-dark);
-    }
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 
-    .projects {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-    }
+---
 
-    .project-card {
-      background: var(--bg-color);
-      border-radius: 10px;
-      padding: 20px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    }
+### 📊 GitHub Stats
 
-    footer {
-      text-align: center;
-      padding: 30px 0;
-      font-size: 0.9rem;
-      color: #555;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>👋 Hey, I'm Smit Prajapati</h1>
-    <p>🚀 Full Stack Developer | Software Engineer | Tech Enthusiast | Innovator</p>
-  </header>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smitprajapati&show_icons=true&theme=radical" alt="Smit's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitprajapati&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-  <section class="section">
-    <h2>💡 About Me</h2>
-    <ul>
-      <li>🎓 Passionate Full Stack Developer with expertise in the MERN Stack (MongoDB, Express, React, Node.js)</li>
-      <li>🧠 Focused on writing clean, maintainable, and scalable code</li>
-      <li>💻 Builder of innovative web solutions and interactive interfaces</li>
-      <li>🏗️ Experienced in creating real-world projects with authentication, APIs, and dashboards</li>
-      <li>📈 Always learning, exploring, and adapting to new technologies</li>
-    </ul>
-  </section>
+---
 
-  <section class="section">
-    <h2>🛠️ Tech Stack</h2>
-    <ul>
-      <li><strong>Frontend:</strong> React.js, HTML, CSS, JavaScript, TailwindCSS</li>
-      <li><strong>Backend:</strong> Node.js, Express.js, REST APIs</li>
-      <li><strong>Database:</strong> MongoDB, Mongoose</li>
-      <li><strong>Tools:</strong> Git, GitHub, Postman, VS Code</li>
-    </ul>
-  </section>
+### 🌐 Connect with Me
 
-  <section class="section">
-    <h2>🌟 Featured Projects</h2>
-    <div class="projects">
-      <div class="project-card">
-        <h3>Project 1</h3>
-        <p>A modern web application with a clean interface and real-time data integration.</p>
-        <p><strong>Tech:</strong> MERN Stack</p>
-      </div>
-      <div class="project-card">
-        <h3>Project 2</h3>
-        <p>A full-featured platform designed for efficient task management and collaboration.</p>
-        <p><strong>Tech:</strong> React, Node.js, MongoDB</p>
-      </div>
-    </div>
-  </section>
+<p align="left">
+  <a href="https://www.linkedin.com/in/smitprajapati" target="_blank">
+    <img src="https://img.shields.io/badge/-Smit%20Prajapati-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:smitprajapati@gmail.com">
+    <img src="https://img.shields.io/badge/-smitprajapati@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/smitprajapati" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+  </a>
+</p>
 
-  <section class="section">
-    <h2>🌍 Connect with Me</h2>
-    <ul>
-      <li>💼 <a href="#">LinkedIn</a></li>
-      <li>🐦 <a href="#">Twitter</a></li>
-      <li>📧 <a href="mailto:smitprajapati@example.com">smitprajapati@example.com</a></li>
-    </ul>
-  </section>
+---
 
-  <footer>
-    ⭐ "Code, Learn, Build, Repeat."  
-    <br>© 2025 Smit Prajapati
-  </footer>
-</body>
-</html>
+### ✨ Quote of the Day
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+⭐️ *From [smitprajapati](https://github.com/smitprajapati)*  
